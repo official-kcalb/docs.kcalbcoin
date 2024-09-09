@@ -20,6 +20,6 @@ layout:
 
 # 🔜 Coming soon
 
-Follow up for updates on [Telegram](https://t.me/kcalbcoin\_org/).
+Follow us for updates on [Telegram](https://t.me/kcalbcoin\_org/).
 
 _Official website:_ [_https://kcalbcoin.org/_](https://kcalbcoin.org/)
