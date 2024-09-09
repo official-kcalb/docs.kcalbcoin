@@ -1,4 +1,5 @@
 ---
+description: We are currently under development.
 cover: .gitbook/assets/Square Optimise.png
 coverY: 0
 layout:
@@ -19,10 +20,6 @@ layout:
 
 # 🔜 Coming soon
 
-We are currently under development.
-
-Follow up for updates on [Telegram](https://t.me/kcalbcoin\_org/),&#x20;
-
-
+Follow up for updates on [Telegram](https://t.me/kcalbcoin\_org/).
 
 _Official website:_ [_https://kcalbcoin.org/_](https://kcalbcoin.org/)
